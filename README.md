@@ -198,7 +198,7 @@ Security architecture model for IoT ecosystems.
 
 <div align="center">
 
-[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/Wardet.Wahaj.png)](https://tryhackme.com/p/Wardet.Wahaj)
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/Wardet.Wahaj.png?v=2)](https://tryhackme.com/p/Wardet.Wahaj)
 
 | Metric | Value |
 |--------|-------|
