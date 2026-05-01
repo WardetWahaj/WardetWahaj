@@ -24,7 +24,7 @@
 # Raja Wardet Wahaj
 ### Cybersecurity Analyst · SOC Operations · Penetration Tester
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Grandmaster_%7C_Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Wardet.Wahaj)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Grandmaster_%7C_%2317_Globally-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Wardet.Wahaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wardet-wahaj-0b52571aa)
 [![Email](https://img.shields.io/badge/Email-wardetwahaj.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wardetwahaj.official@gmail.com)
 
@@ -38,7 +38,7 @@
 Name       : Raja Wardet Wahaj
 Role       : Cybersecurity Analyst | SOC Analyst | Penetration Tester
 Status     : Final-Year B.S. Computer Science @ University of Chakwal
-Clearance  : TryHackMe Grandmaster — Top 1% Globally (1000+ rooms)
+Clearance  : TryHackMe Grandmaster — #17 Globally | Top 1% (1014 rooms)
 Focus      : Blue Team | Red Team | Threat Intelligence | SIEM Operations
 Company    : Co-Founder @ SentinelX Cyber
 Available  : Open to Junior SOC Analyst & Penetration Tester roles
@@ -201,8 +201,8 @@ Security architecture model for IoT ecosystems.
 | Metric | Value |
 |--------|-------|
 | 🏆 Rank | **Grandmaster** |
-| 🌍 Global Position | **Top 1%** |
-| 🧩 Rooms Completed | **1000+** |
+| 🌍 Global Position | **#17 Globally — Top 1%** |
+| 🧩 Rooms Completed | **1014** |
 | 🎯 Paths Completed | SOC L1, SOC L2, Jr Pentester, CompTIA PenTest+, Offensive Pentesting, Web App Pentesting |
 
 </div>
