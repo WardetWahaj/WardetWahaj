@@ -27,7 +27,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Grandmaster_%7C_Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Wardet.Wahaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wardet-wahaj-0b52571aa)
 [![Email](https://img.shields.io/badge/Email-wardetwahaj.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wardetwahaj.official@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Chakwal%2C_Pakistan-228B22?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chakwal,Pakistan)
 
 </div>
 
@@ -42,7 +41,6 @@ Status     : Final-Year B.S. Computer Science @ University of Chakwal
 Clearance  : TryHackMe Grandmaster — Top 1% Globally (1000+ rooms)
 Focus      : Blue Team | Red Team | Threat Intelligence | SIEM Operations
 Company    : Co-Founder @ SentinelX Cyber
-Location   : Chakwal, Punjab, Pakistan
 Available  : Open to Junior SOC Analyst & Penetration Tester roles
 ```
 
@@ -220,7 +218,6 @@ Security architecture model for IoT ecosystems.
 | 📧 Email | [wardetwahaj.official@gmail.com](mailto:wardetwahaj.official@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/wardet-wahaj-0b52571aa](https://linkedin.com/in/wardet-wahaj-0b52571aa) |
 | 🎯 TryHackMe | [tryhackme.com/p/Wardet.Wahaj](https://tryhackme.com/p/Wardet.Wahaj) |
-| 📍 Location | Chakwal, Punjab, Pakistan |
 
 </div>
 
